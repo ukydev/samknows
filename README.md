@@ -61,11 +61,3 @@ to jump into the container to run composer, etc ...
 ## Conclusion
 
 Good luck, we hope to hear from you soon!
-
-# samknows
-# samknows
-# samknows
-# samknows
-# samknows
-# samknows
-# samknows
